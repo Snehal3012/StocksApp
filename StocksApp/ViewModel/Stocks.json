@@ -1,0 +1,38 @@
+[
+    {
+      "symbol": "AAPL",
+      "description": "Apple Inc.",
+      "price": 178.18,
+      "change": "+0.62"
+    },
+    {
+      "symbol": "GOOG",
+      "description": "Google Stocks",
+      "price": 1200,
+      "change": "+0.23"
+    },
+    {
+      "symbol": "BA",
+      "description": "The Boeing Company",
+      "price": 211.27,
+      "change": "-4.78"
+    },
+    {
+      "symbol": "NKE",
+      "description": "NIKE, Inc.",
+      "price": 97.67,
+      "change": "-0.26"
+    },
+    {
+      "symbol": "SBUX",
+      "description": "Starbucks Corporation",
+      "price": 95.28,
+      "change": "+0.18"
+    },
+    {
+      "symbol": "TSLA",
+      "description": "Tesla, Inc.",
+      "price": 248.50,
+      "change": "-2.99"
+    }
+]
